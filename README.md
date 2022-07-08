@@ -5,7 +5,7 @@
 
 ### 📌 <strong>Sobre o projeto</strong>
 
-O Objetivo desse projeto era desenvolver um aplicativo que verificasse a compatibilidade de um
+O objetivo desse projeto foi desenvolver um aplicativo ficitício que verificasse a compatibilidade de um
 candidato com uma vaga de acordo com seu resultado nas etapas do processo seletivo.
 Para isso, precisávamos criar um teste que devolvesse uma string no seguinte formato: eX_tX_pX_sX
 (sendo que cada X é substituído pela avaliação da pessoa em uma das etapas do
@@ -13,7 +13,7 @@ processo - entrevista, teste teórico, teste prático e avaliação de soft skil
 Sendo assim, deveríamos criar em Python uma lista para armazenar esses resultados. 
 Em seguida, uma função que buscasse o candidato de
 acordo com os critérios digitados pelo usuário. Dessa forma, O usuário informa qual a nota
-mínima de e, t, p e s que ele deseja buscar. O aplicação deve listar quem são os
+mínima de e, t, p e s que ele deseja buscar. O aplicativo deve listar quem são os
 candidatos disponíveis com nota maior ou igual a essas informadas pelo usuário.
 Ao buscar por alguém com resultados 4,4,8,8 por exemplo, deve-se receber que os
 candidatos 1 e 5 atendem esse critério, foram bem no teste prático e apresentaram um
