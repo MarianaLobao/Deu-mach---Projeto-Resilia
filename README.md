@@ -5,7 +5,7 @@
 
 ### 📌 <strong>Sobre o projeto</strong>
 
-O objetivo desse projeto foi desenvolver um aplicativo ficitício que verificasse a compatibilidade de um
+O objetivo desse projeto foi desenvolver um aplicativo para uma empresa fictícia que verificasse a compatibilidade de um
 candidato com uma vaga de acordo com seu resultado nas etapas do processo seletivo.
 Para isso, precisávamos criar um teste que devolvesse uma string no seguinte formato: eX_tX_pX_sX
 (sendo que cada X é substituído pela avaliação da pessoa em uma das etapas do
