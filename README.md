@@ -46,7 +46,6 @@ https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloni
 3º A partir do terminal, interaja com o bot navegando pelos menus de atendimento.
 
 
-### :busts_in_silhouette: <strong> Conheça o squad </strong>
 
 Autora desse projeto:
 
