@@ -1,11 +1,7 @@
-# Deu-mach-Projeto-Resilia
+
 
 <h1 align="center">Resilia - Projeto Deu Math - Módulo 2 </h1>
 
-
-<p align="center">
-  <img src="https://github.com/enilaester/Resilia-Modulo1-Chatbot/blob/1c59e7020f9217143ccd177870cd49c4cdab7b55/Capa%20-%20Apresenta%C3%A7%C3%A3o.png">
-</p>
 
 ### 📌 <strong>Sobre o projeto</strong>
 
